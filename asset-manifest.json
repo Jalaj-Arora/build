@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.css": "/static/css/main.834c77c0.chunk.css",
-    "main.js": "/static/js/main.b9598098.chunk.js",
-    "main.js.map": "/static/js/main.b9598098.chunk.js.map",
+    "main.css": "/static/css/main.d48a6667.chunk.css",
+    "main.js": "/static/js/main.0e2ea460.chunk.js",
+    "main.js.map": "/static/js/main.0e2ea460.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.47b6b39e.js",
     "runtime-main.js.map": "/static/js/runtime-main.47b6b39e.js.map",
     "static/css/2.e10cf4f1.chunk.css": "/static/css/2.e10cf4f1.chunk.css",
-    "static/js/2.3f70bebd.chunk.js": "/static/js/2.3f70bebd.chunk.js",
-    "static/js/2.3f70bebd.chunk.js.map": "/static/js/2.3f70bebd.chunk.js.map",
+    "static/js/2.0a9be5d1.chunk.js": "/static/js/2.0a9be5d1.chunk.js",
+    "static/js/2.0a9be5d1.chunk.js.map": "/static/js/2.0a9be5d1.chunk.js.map",
     "index.html": "/index.html",
-    "precache-manifest.88d6cb500567c32da256f03795d561cf.js": "/precache-manifest.88d6cb500567c32da256f03795d561cf.js",
+    "precache-manifest.6696321eecf4af48c11c315b60ee5d2f.js": "/precache-manifest.6696321eecf4af48c11c315b60ee5d2f.js",
     "service-worker.js": "/service-worker.js",
     "static/css/2.e10cf4f1.chunk.css.map": "/static/css/2.e10cf4f1.chunk.css.map",
-    "static/css/main.834c77c0.chunk.css.map": "/static/css/main.834c77c0.chunk.css.map",
-    "static/js/2.3f70bebd.chunk.js.LICENSE": "/static/js/2.3f70bebd.chunk.js.LICENSE",
+    "static/css/main.d48a6667.chunk.css.map": "/static/css/main.d48a6667.chunk.css.map",
+    "static/js/2.0a9be5d1.chunk.js.LICENSE": "/static/js/2.0a9be5d1.chunk.js.LICENSE",
     "static/media/BroadcastMsg.svg": "/static/media/BroadcastMsg.b628c864.svg",
     "static/media/Help.svg": "/static/media/Help.1b17639f.svg",
     "static/media/HotLine.svg": "/static/media/HotLine.8e399cf3.svg",
@@ -28,14 +28,15 @@
     "static/media/dots-icon.svg": "/static/media/dots-icon.aa302437.svg",
     "static/media/expand-more.svg": "/static/media/expand-more.2d8e2c25.svg",
     "static/media/logo.svg": "/static/media/logo.c7b270ba.svg",
+    "static/media/no-hotlines.svg": "/static/media/no-hotlines.50051d5a.svg",
     "static/media/pencil.svg": "/static/media/pencil.5fa26e5e.svg",
     "static/media/send.svg": "/static/media/send.5a28702a.svg"
   },
   "entrypoints": [
     "static/js/runtime-main.47b6b39e.js",
     "static/css/2.e10cf4f1.chunk.css",
-    "static/js/2.3f70bebd.chunk.js",
-    "static/css/main.834c77c0.chunk.css",
-    "static/js/main.b9598098.chunk.js"
+    "static/js/2.0a9be5d1.chunk.js",
+    "static/css/main.d48a6667.chunk.css",
+    "static/js/main.0e2ea460.chunk.js"
   ]
 }
