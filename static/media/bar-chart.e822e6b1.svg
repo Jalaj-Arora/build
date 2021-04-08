@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="581" height="367" viewBox="0 0 581 367">
+  <g id="Group_73" data-name="Group 73" transform="translate(-304 -791)">
+    <rect id="Rectangle_5286" data-name="Rectangle 5286" width="581" height="367" rx="10" transform="translate(304 791)" fill="#fff"/>
+    <text id="Sample_results" data-name="Sample results" transform="translate(313 816)" fill="#818181" font-size="14" font-family="Poppins-Regular, Poppins"><tspan x="0" y="0">Sample results</tspan></text>
+    <text id="Planets" transform="translate(720 871)" fill="#21325c" font-size="14" font-family="Poppins-Light, Poppins" font-weight="300"><tspan x="0" y="0">Planets</tspan></text>
+    <text id="Countries" transform="translate(720 918.529)" fill="#21325c" font-size="14" font-family="Poppins-Light, Poppins" font-weight="300"><tspan x="0" y="0">Countries</tspan></text>
+    <text id="Cities" transform="translate(720 965.529)" fill="#21335c" font-size="14" font-family="Poppins-SemiBold, Poppins" font-weight="600"><tspan x="0" y="0">Cities</tspan></text>
+    <text id="Wildlife" transform="translate(720 1012)" fill="#21325c" font-size="14" font-family="Poppins-Light, Poppins" font-weight="300"><tspan x="0" y="0">Wildlife</tspan></text>
+    <rect id="Rectangle_4836" data-name="Rectangle 4836" width="13" height="4" rx="2" transform="translate(720 850)" fill="#6771dc"/>
+    <rect id="Rectangle_4837" data-name="Rectangle 4837" width="13" height="4" rx="2" transform="translate(720 900)" fill="#c767dc"/>
+    <rect id="Rectangle_4838" data-name="Rectangle 4838" width="13" height="4" rx="2" transform="translate(720 944)" fill="#dc67ce"/>
+    <rect id="Rectangle_4839" data-name="Rectangle 4839" width="13" height="4" rx="2" transform="translate(720 994)" fill="#dc67ab"/>
+    <g id="Group_72" data-name="Group 72" transform="translate(2004 -2194)">
+      <text id="_30_" data-name="30%" transform="translate(-1595 3076)" fill="#6771dc" font-size="12" font-family="Poppins-Regular, Poppins"><tspan x="0" y="0">30%</tspan></text>
+      <text id="_20_" data-name="20%" transform="translate(-1556 3076)" fill="#6771dc" font-size="12" font-family="Poppins-Regular, Poppins"><tspan x="0" y="0">20%</tspan></text>
+      <text id="_10_" data-name="10%" transform="translate(-1517 3076)" fill="#6771dc" font-size="12" font-family="Poppins-Regular, Poppins"><tspan x="0" y="0">10%</tspan></text>
+      <text id="_10_2" data-name="10%" transform="translate(-1481 3076)" fill="#6771dc" font-size="12" font-family="Poppins-Regular, Poppins"><tspan x="0" y="0">10%</tspan></text>
+      <text id="_5_" data-name="5%" transform="translate(-1442 3076)" fill="#6771dc" font-size="12" font-family="Poppins-Regular, Poppins"><tspan x="0" y="0">5%</tspan></text>
+      <rect id="Rectangle_4795" data-name="Rectangle 4795" width="24" height="139" rx="2" transform="translate(-1596 3084)" fill="#e8f0ff"/>
+      <rect id="Rectangle_4763" data-name="Rectangle 4763" width="24" height="56" rx="2" transform="translate(-1596 3167)" fill="#6771dc"/>
+      <rect id="Rectangle_4794" data-name="Rectangle 4794" width="24" height="139" rx="2" transform="translate(-1558 3084)" fill="#e8f0ff"/>
+      <rect id="Rectangle_4764" data-name="Rectangle 4764" width="24" height="28" rx="2" transform="translate(-1558 3195)" fill="#c767dc"/>
+      <rect id="Rectangle_4793" data-name="Rectangle 4793" width="24" height="139" rx="2" transform="translate(-1520 3084)" fill="#e8f0ff"/>
+      <rect id="Rectangle_4765" data-name="Rectangle 4765" width="24" height="14" rx="2" transform="translate(-1520 3209)" fill="#dc67ce"/>
+      <rect id="Rectangle_4792" data-name="Rectangle 4792" width="24" height="139" rx="2" transform="translate(-1482 3084)" fill="#e8f0ff"/>
+      <rect id="Rectangle_4766" data-name="Rectangle 4766" width="24" height="14" rx="2" transform="translate(-1482 3209)" fill="#dc67ab"/>
+      <rect id="Rectangle_4791" data-name="Rectangle 4791" width="24" height="139" rx="2" transform="translate(-1444 3084)" fill="#e8f0ff"/>
+      <rect id="Rectangle_4767" data-name="Rectangle 4767" width="24" height="10" rx="2" transform="translate(-1444 3213)" fill="#67b7dc"/>
+    </g>
+  </g>
+</svg>

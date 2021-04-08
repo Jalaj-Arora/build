@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="581" height="367" viewBox="0 0 581 367">
+  <g id="Group_74" data-name="Group 74" transform="translate(-304 -791)">
+    <rect id="Rectangle_5286" data-name="Rectangle 5286" width="581" height="367" rx="10" transform="translate(304 791)" fill="#fff"/>
+    <text id="_30_" data-name="30%" transform="translate(480 895)" fill="#5e7ac3" font-size="14" font-family="Poppins-Regular, Poppins"><tspan x="0" y="0">30%</tspan></text>
+    <text id="_30_2" data-name="30%" transform="translate(477 846)" fill="#6771dc" font-size="12" font-family="Poppins-Regular, Poppins"><tspan x="0" y="0">30%</tspan></text>
+    <text id="_20_" data-name="20%" transform="translate(567 973)" fill="#c767dc" font-size="12" font-family="Poppins-Regular, Poppins"><tspan x="0" y="0">20%</tspan></text>
+    <text id="_10_" data-name="10%" transform="translate(456 1024)" fill="#dc67ce" font-size="12" font-family="Poppins-Regular, Poppins"><tspan x="0" y="0">10%</tspan></text>
+    <text id="_10_2" data-name="10%" transform="translate(397 988)" fill="#dc67ab" font-size="12" font-family="Poppins-Regular, Poppins"><tspan x="0" y="0">10%</tspan></text>
+    <text id="_5_" data-name="5%" transform="translate(388 927)" fill="#67b7dc" font-size="12" font-family="Poppins-Regular, Poppins"><tspan x="0" y="0">5%</tspan></text>
+    <circle id="Ellipse_869" data-name="Ellipse 869" cx="77.5" cy="77.5" r="77.5" transform="translate(412 854)" fill="#e4eaff"/>
+    <g id="mySvg" transform="translate(421.154 863.337)">
+      <path id="Path_6713" data-name="Path 6713" d="M242.088,98.079,177.342,77.041a68.078,68.078,0,0,1,129.492,0Z" transform="translate(-174.01 -30.001)" fill="#6771dc"/>
+      <path id="Path_6714" data-name="Path 6714" d="M320,154.685l64.746-21.038a68.078,68.078,0,0,1-50.592,87.628Z" transform="translate(-251.922 -86.607)" fill="#a3bf30"/>
+      <path id="Path_6715" data-name="Path 6715" d="M271.847,180,286,246.59a68.078,68.078,0,0,1-54.17-11.514Z" transform="translate(-203.769 -111.922)" fill="#bf5b30"/>
+      <path id="Path_6716" data-name="Path 6716" d="M238.527,180l-40.015,55.077a68.078,68.078,0,0,1-27.69-47.961Z" transform="translate(-170.449 -111.922)" fill="#dc67ab"/>
+      <path id="Path_6717" data-name="Path 6717" d="M238.078,154.684,170.373,161.8a68.077,68.077,0,0,1,2.959-28.153Z" transform="translate(-170 -86.607)" fill="#67b7dc"/>
+      <path id="Path_6719" data-name="Path 6719" d="M320,154.685l64.746-21.038a68.078,68.078,0,0,1-50.592,87.628Z" transform="translate(-251.922 -86.607)" fill="#c767dc"/>
+      <path id="Path_6720" data-name="Path 6720" d="M271.847,180,286,246.59a68.078,68.078,0,0,1-54.17-11.514Z" transform="translate(-203.769 -111.922)" fill="#dc67ce"/>
+    </g>
+    <text id="Sample_results" data-name="Sample results" transform="translate(313 816)" fill="#818181" font-size="14" font-family="Poppins-Regular, Poppins"><tspan x="0" y="0">Sample results</tspan></text>
+    <text id="Planets" transform="translate(720 871)" fill="#21325c" font-size="14" font-family="Poppins-Light, Poppins" font-weight="300"><tspan x="0" y="0">Planets</tspan></text>
+    <text id="Countries" transform="translate(720 918.529)" fill="#21325c" font-size="14" font-family="Poppins-Light, Poppins" font-weight="300"><tspan x="0" y="0">Countries</tspan></text>
+    <text id="Cities" transform="translate(720 965.529)" fill="#21335c" font-size="14" font-family="Poppins-SemiBold, Poppins" font-weight="600"><tspan x="0" y="0">Cities</tspan></text>
+    <text id="Wildlife" transform="translate(720 1012)" fill="#21325c" font-size="14" font-family="Poppins-Light, Poppins" font-weight="300"><tspan x="0" y="0">Wildlife</tspan></text>
+    <text id="Trees" transform="translate(720 1059)" fill="#21325c" font-size="14" font-family="Poppins-Light, Poppins" font-weight="300"><tspan x="0" y="0">Trees</tspan></text>
+    <rect id="Rectangle_4836" data-name="Rectangle 4836" width="13" height="4" rx="2" transform="translate(720 850)" fill="#6771dc"/>
+    <rect id="Rectangle_4837" data-name="Rectangle 4837" width="13" height="4" rx="2" transform="translate(720 900)" fill="#c767dc"/>
+    <rect id="Rectangle_4838" data-name="Rectangle 4838" width="13" height="4" rx="2" transform="translate(720 944)" fill="#dc67ce"/>
+    <rect id="Rectangle_4839" data-name="Rectangle 4839" width="13" height="4" rx="2" transform="translate(720 994)" fill="#dc67ab"/>
+    <rect id="Rectangle_4840" data-name="Rectangle 4840" width="13" height="4" rx="2" transform="translate(720 1041)" fill="#67b7dc"/>
+  </g>
+</svg>
